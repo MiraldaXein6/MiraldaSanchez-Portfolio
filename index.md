@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Graphic Design / Diseño Gráfico
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Web Pages / Páginas Web
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
